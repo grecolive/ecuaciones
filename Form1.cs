@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 using ecuaciones.Clases;
 using ecuaciones.Interfaces;
 
-=======
->>>>>>> a63da6d08b81228852e09d52e13b3a9f5d168f7a
 namespace ecuaciones
 {
     public partial class Form1 : Form
@@ -12,7 +9,6 @@ namespace ecuaciones
         {
             InitializeComponent();
         }
-<<<<<<< HEAD
 
 		private void resolverEcuacion_Click(object sender, EventArgs e)
 		{
@@ -33,7 +29,5 @@ namespace ecuaciones
 
 			}
 		}
-=======
->>>>>>> a63da6d08b81228852e09d52e13b3a9f5d168f7a
     }
 }
