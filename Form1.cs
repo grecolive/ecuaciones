@@ -1,5 +1,4 @@
 using ecuaciones.Clases;
-using ecuaciones.Interfaces;
 
 namespace ecuaciones
 {
@@ -29,5 +28,6 @@ namespace ecuaciones
 
 			}
 		}
+
     }
 }

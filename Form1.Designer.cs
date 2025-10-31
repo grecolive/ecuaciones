@@ -20,6 +20,14 @@
             base.Dispose(disposing);
         }
 
+		private Label label1;
+		private Label label2;
+		private Label label3;
+		private TextBox txtA;
+		private TextBox txtC;
+		private TextBox txtB;
+		private Button resolverEcuacion;
+
 		#region Windows Form Designer generated code
 
 		/// <summary>
@@ -122,12 +130,6 @@
 
 		#endregion
 
-		private Label label1;
-		private Label label2;
-		private Label label3;
-		private TextBox txtA;
-		private TextBox txtC;
-		private TextBox txtB;
-		private Button resolverEcuacion;
-	}
+		
+    }
 }
